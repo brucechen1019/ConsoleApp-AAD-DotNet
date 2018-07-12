@@ -10,6 +10,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world!!!");
+            //Console.WriteLine(DateTime.UtcNow);
+            Console.WriteLine("press any key to exit...");
+            Console.ReadLine();
         }
     }
 }
